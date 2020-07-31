@@ -1,0 +1,1 @@
+document.getElementById("word").innerHTML = "This was a pain";
