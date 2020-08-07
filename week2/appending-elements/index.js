@@ -1,12 +1,13 @@
+// H1 element
 var newH1 = document.createElement("h1")
 newH1.textContent = "Welcome to my js site!"
 document.body.append(newH1)
 
-
+// Paragraph
 var newP = document.createElement("p")
 newP.textContent = "All of this was created with Javascript"
 document.body.append(newP)
-
+// List items
 var newOl = document.createElement("ol")
 document.body.append(newOl)
 
