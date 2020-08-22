@@ -1,0 +1,15 @@
+div{
+    margin-left: 32%;
+}
+#addsum{
+    background-color: blue;
+    width: 50%;
+}
+#subsum{
+    background-color: green;
+    width: 50%;
+}
+#mulsum{
+    background-color: red;
+    width: 50%;
+}
