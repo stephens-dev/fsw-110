@@ -24,5 +24,5 @@ const lN = form.lName.value
 const Age = form.age.value
 const gen = form.gender.value
 
-alert("First name: " + fN + "\n"+ "Last name: " + lN + "\nAge: "+ Age+"\n" +"Gender: "+ gen)
+alert("First name: " + fN + "\n"+ "Last name: " + lN + "\nAge: "+ Age+"\n" +"Gender: "+ gen+ "\nDestination: "+destinationInputs+ "\nDietary needs: "+dietInputs )
 })
