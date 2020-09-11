@@ -4,7 +4,7 @@ const tb = document.getElementById("table")
 const row = document.createElement("tr")
 const data1 = document.createElement("td")
 const data2 = document.createElement("td")
-const count = 0
+let count = 0
 
 
 form.addEventListener("submit", function () {
